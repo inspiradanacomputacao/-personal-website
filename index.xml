@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logan Carlos</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Logan Carlos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2020 00:49:35 -0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vida de Doguinho</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 27 May 2020 00:49:35 -0300</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>ÊÔô Vida de Dog Doggo ipsum long woofer long doggo smol borking doggo with a long snoot for pats adorable doggo, h*ck length boy. Blop sub woofer boofers pats vvv such treat, wow such tempt dat tungg tho snoot tungg much ruin diet adorable doggo, vvv blep mlem the neighborhood pupper. Many pats very taste wow you are doing me a frighten stop it fren what a nice floof maximum borkdrive pats shibe heckin doing me a frighten, corgo very jealous pupper such treat length boy mlem shoober doggo.</description>
+    </item>
+    
+  </channel>
+</rss>
